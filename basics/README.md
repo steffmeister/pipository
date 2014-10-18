@@ -6,9 +6,9 @@ I am working with the B revision of the Raspberry Pi.
 # Raspberry Pi GPIOs #
 
 | Function | PIN# | PIN# | Function |
-| -------- | ---- | ---- | -------- |
+| -------- | :----: | :----: | -------- |
 | 3V3      |    1 |    2 | 5V       |
-| GPIO2)   |    3 |    4 | 5V       |
+| GPIO2    |    3 |    4 | 5V       |
 | GPIO3    |    5 |    6 | GND      |
 | GPIO4    |    7 |    8 | GPIO14   |
 | GND      |    9 |   10 | GPIO15   |
